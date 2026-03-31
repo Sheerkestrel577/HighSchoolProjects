@@ -1,0 +1,1 @@
+Robot's job is turning and moving accurately on a flat plane. Accomplishes this with 4 wheels, front two powered for differential drive. Both wheels have encoders for odometry, and 9-axis IMU for heading tracking and cross-checking position data.
