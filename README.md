@@ -4,7 +4,7 @@
 
 **Hi, I'm Sid**
 
-This repo is a place I can put my projects so I don't lose them (again...)
+This repo is a place I can put my projects so I don't lose them (again...). I have not checked in model files for current year science olympiad projects as I plan to continue refining the design for next years event as well.
 
 **Currently working on:**
 
